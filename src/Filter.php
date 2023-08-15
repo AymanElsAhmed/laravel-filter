@@ -1,6 +1,6 @@
 <?php
 
-namespace Ayman\LaravelFilterPackage\Traits;
+namespace AymanEls\LaravelFilterPackage\Traits;
 
 trait Filter
 {
