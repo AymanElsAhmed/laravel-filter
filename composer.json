@@ -12,7 +12,8 @@
             "email": "aymanelsahmed@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "version": "1.0.0",
+    "minimum-stability": "stable",
     "license": "MIT",
     "autoload": {
         "psr-4": {
