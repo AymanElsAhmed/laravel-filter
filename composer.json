@@ -1,0 +1,21 @@
+{
+    "name": "ayman/laravel-filter-package",
+    "description": "A Laravel package with a custom filtering trait",
+    "keywords": [
+        "filter",
+        "search",
+        "laravel"
+    ],
+    "authors": [
+        {
+            "name": "Ayman Elsayed",
+            "email": "aymanelsahmed@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ayman\\LaravelFilterPackage\\": "src/"
+        }
+    }
+}
