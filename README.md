@@ -69,7 +69,6 @@ Product::filter()->get();
 assume our query is something like this:
 
 ```php
-Product::filter()->get();
-```
 ?search=field&from=2023-01-01&to=2023-01-02&category_id=1&department_id=1&user_id=1&currency=1
 ```
+
